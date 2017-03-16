@@ -1,0 +1,52 @@
+body {
+/**text-align: center;**/
+	background-color: #141414;
+	font-family: sans-serif;
+	color: white;
+}
+ 
+button {
+    border: none;
+    padding: 10px;
+    font-family: sans-serif;
+    background-color: #FF2500;
+    color: white;
+    border-radius: 4px;
+}
+
+button:hover {
+	cursor: pointer;
+}
+ 
+a {
+	text-decoration: none;
+}
+
+#header {
+	margin-top: 30px;
+	text-align: center;
+}
+
+.container {
+	width: 75%;
+	margin: 30px auto;
+}
+
+h3 {
+	margin-bottom: 50px;}
+
+ul {
+	list-style: none;
+}
+
+li {
+	display: inline-block;
+}
+
+#listings {
+	text-align: center;
+}
+
+#listings img {
+	max-width: 200px;
+}
